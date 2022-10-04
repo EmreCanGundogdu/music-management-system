@@ -1,0 +1,8 @@
+murat
+Fikrimin ince gulu
+stock:10
+cost:25Music Name: Fikrimin Ince Gulu
+Music ID: 1
+Music Stock: 11
+Music Cost: 25
+Singer Name: Zeki Muren
